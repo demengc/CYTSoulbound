@@ -1,0 +1,8 @@
+name: CYTSoulbound
+version: ${project.version}
+main: ${main.class}
+api-version: 1.13
+prefix: Soulbound
+authors: [Demeng7215, ExponentialServices]
+description: Allows players to keep their items upon death.
+website: https://demeng7215.com

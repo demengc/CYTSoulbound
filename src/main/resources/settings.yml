@@ -1,0 +1,8 @@
+invalid-usage: "&4Commands for CYTSoulbound:\n &c/soulbound add <Player> &7Add a bounded soul to the player.\n &c/soulbound remove <Player> &7Remove a bounded soul from the player. "
+not-online: "&4Soulbound> &7%player% &cis not online. Please try again later."
+no-permission: "&4Soulbound> &cYou do not have permission to execute that command."
+nothing-in-target-hand: "&4Soulbound> &cThat player is not holding an item."
+not-soulbound-item: "&4Soulbound> &cThat player is not holding an item with an active soulbound."
+soulbound-added: "&4Soulbound> &cSoulbound has been successfully added to the item in target's hand."
+soulbound-removed: "&4Soulbound> &cSoulbound has been successfully removed from the item in target's hand."
+soulbound-already-exists-on-item: "&4Soulbound> &cThe player is currently holding an item with existing soulbound."
